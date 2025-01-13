@@ -103,10 +103,10 @@ Contributions are welcome! Follow these steps:
 
 ## Author
 
-**Harshit Patle**  
-Frontend Web Development Intern at NexusLogic Technologies  
-
+**Harshit Patle**
 **[YouTube](https://www.youtube.com/@coding_version)**  
-**[Instagram](https://www.instagram.com/@coding_version)**  
-**[LinkedIn](https://www.linkedin.com/in/harshit-patle/)**  
+**[Instagram](https://www.instagram.com/coding_version)**  
+**[LinkedIn](https://www.linkedin.com/in/harshit-patle)**  
 **[GitHub](https://github.com/Harshit-Patle)**
+
+Frontend Web Development Intern at NexusLogic Technologies  
