@@ -1,6 +1,6 @@
 # Artist Landing Pages Enhancement
 
-This project focuses on improving the user interface and user experience of artist landing pages. By leveraging modern frontend technologies like React, TailwindCSS, and Framer Motion, the pages are made more visually appealing, interactive, and user-friendly. The enhancements include aesthetic improvements, responsive design, and engaging animations.
+This project focuses on improving the user interface and user experience of artist landing pages. By leveraging modern frontend technologies like React and TailwindCSS the pages are made more visually appealing, interactive, and user-friendly. The enhancements include aesthetic improvements, responsive design, and engaging animations.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -85,8 +85,8 @@ To view the landing pages after running the development server:
 
 You can view the enhanced artist landing pages by navigating to the following links:
 
-- [Landing Page 1](https://your-deployment-link.com/landing1)
-- [Landing Page 2](https://your-deployment-link.com/landing2)
+- [Landing Page 1](https://project-i-nexuslogic-technologies.vercel.app/landing1)
+- [Landing Page 2](https://project-i-nexuslogic-technologies.vercel.app/landing2)
 
 Explore the responsive designs, animations, and improved user experience!
 
@@ -106,7 +106,7 @@ Contributions are welcome! Follow these steps:
 **Harshit Patle**  
 Frontend Web Development Intern at NexusLogic Technologies  
 
-**[YouTube](https://www.youtube.com/@CodingVersion)**  
+**[YouTube](https://www.youtube.com/@coding_version)**  
 **[Instagram](https://www.instagram.com/@coding_version)**  
 **[LinkedIn](https://www.linkedin.com/in/harshit-patle/)**  
-**[GitHub](https://github.com/Harshit-Patle/Project-I-NexusLogic-Technologies)**
+**[GitHub](https://github.com/Harshit-Patle)**
