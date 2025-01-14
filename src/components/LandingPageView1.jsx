@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Footer from './Footer';
 
 const LandingPageView1 = () => {
   const [landingPageData, setLandingPageData] = useState(null);
@@ -308,6 +309,7 @@ const LandingPageView1 = () => {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 };
