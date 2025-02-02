@@ -61,8 +61,7 @@ src
   │   ├── LandingPageView1.jsx
   │   ├── LandingPageView2.jsx
   └── App.jsx
-public
-  ├── index.html
+index.html
 README.md
 package.json
 ```
