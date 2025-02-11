@@ -5,13 +5,14 @@
 This project focuses on **revamping artist landing pages** with modern aesthetics, **smooth animations**, and **responsive designs** using **React** and **TailwindCSS**. The enhancements aim to create an **engaging, immersive, and visually striking** experience for users.
 
 ---
+
 ## 📌 Table of Contents
 - [🌟 Project Overview](#-project-overview)
-- [🛠️ Technologies Used](#%EF%B8%8F-technologies-used)
+- [🛠️ Technologies Used](#🛠%ef%b8%8f-technologies-used)
 - [✨ Features](#-features)
 - [📂 Project Structure](#-project-structure)
 - [🚀 Setup and Installation](#-setup-and-installation)
-- [📖 Usage](#-usage)
+- [📚 Usage](#-usage)
 - [🔗 Live Demo](#-live-demo)
 - [🤝 Contributing](#-contributing)
 - [👤 Author](#-author)
@@ -29,6 +30,7 @@ The **Artist Landing Pages Enhancement** project is designed to provide **modern
 ✔ **Enhance typography and iconography** for a polished, professional look.  
 
 ---
+
 ## 🛠️ Technologies Used
 
 🔹 **React** - Dynamic, reusable UI components.  
@@ -37,22 +39,24 @@ The **Artist Landing Pages Enhancement** project is designed to provide **modern
 🔹 **Vite** - Faster development and optimized build performance.  
 
 ---
+
 ## ✨ Features
 
-✅ **Aesthetic UI/UX Enhancements**  
+👉 **Aesthetic UI/UX Enhancements**  
 🎨 Vibrant color schemes, elegant gradients, and minimalist layouts.  
 🎭 **Interactive hover effects & micro-animations** to improve engagement.  
 📜 Smooth scrolling animations for a seamless user journey.  
 
-✅ **Fully Responsive Design**  
+👉 **Fully Responsive Design**  
 📱 Optimized for **mobile, tablet, and desktop** views.  
 📌 **Sticky navigation bars** for better usability.  
 
-✅ **Typography & Iconography Improvements**  
-🔡 Balanced text spacing and font selection for readability.  
+👉 **Typography & Iconography Improvements**  
+💟 Balanced text spacing and font selection for readability.  
 🎭 Intuitive icons to guide user interactions.  
 
 ---
+
 ## 📂 Project Structure
 
 ```
@@ -67,6 +71,7 @@ package.json
 ```
 
 ---
+
 ## 🚀 Setup and Installation
 
 Get started with the project in just a few steps:
@@ -89,7 +94,8 @@ npm run dev
 🔹 **Open your browser** and visit `http://localhost:5173` to see the project in action! 🚀
 
 ---
-## 📖 Usage
+
+## 📚 Usage
 
 Explore the artist landing pages:
 
@@ -99,6 +105,7 @@ Explore the artist landing pages:
 💡 Navigate through the pages and experience the power of **modern design & interactive elements**! 🎨
 
 ---
+
 ## 🔗 Live Demo
 
 🌍 **Experience the enhanced landing pages live!**
@@ -109,28 +116,54 @@ Explore the artist landing pages:
 🚀 **Discover the future of artist portfolios!**
 
 ---
+
 ## 🤝 Contributing
 
 We ❤️ contributions! Follow these steps to contribute:
 
-1️⃣ **Fork the repository**
-2️⃣ **Create a feature branch** (`git checkout -b feature-name`)
-3️⃣ **Commit changes** (`git commit -m 'Add a new feature'`)
-4️⃣ **Push to the branch** (`git push origin feature-name`)
-5️⃣ **Submit a pull request** 🚀
+### 1️⃣ Fork the Repository
+- Click the **Fork** button on the top-right corner of the repository page.
+
+### 2️⃣ Clone the Forked Repository
+```bash
+git clone https://github.com/your-username/Project-I-NexusLogic-Technologies.git
+```
+
+### 3️⃣ Create a Feature Branch
+```bash
+git checkout -b feature-name
+```
+
+### 4️⃣ Make Changes & Commit
+- Implement your changes and ensure the code follows best practices.
+- Commit your changes:
+```bash
+git commit -m "Add new feature"
+```
+
+### 5️⃣ Push Changes to Your Fork
+```bash
+git push origin feature-name
+```
+
+### 6️⃣ Submit a Pull Request (PR)
+- Navigate to the **original repository** and click **New Pull Request**.
+- Provide a clear description of your changes.
 
 ---
+
 ## 👤 Author
 
 💡 **Harshit Patle**  
-🔗 **[YouTube](https://www.youtube.com/@coding_version)**  
+🔹 **[YouTube](https://www.youtube.com/@coding_version)**  
 📷 **[Instagram](https://www.instagram.com/coding_version)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/harshit-patle)**  
+🌚 **[LinkedIn](https://www.linkedin.com/in/harshit-patle)**  
 💻 **[GitHub](https://github.com/Harshit-Patle)**  
 
 🎨 **Frontend Web Development Intern at NexusLogic Technologies**  
 🚀 Passionate about building **engaging, modern, and interactive** web applications!  
 
 ---
+
 💙 *Star this repository ⭐ on GitHub if you found it useful!* 🎨
 
