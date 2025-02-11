@@ -126,7 +126,7 @@ We ❤️ contributions! Follow these steps to contribute:
 
 ### 2️⃣ Clone the Forked Repository
 ```bash
-git clone git clone https://github.com/Harshit-Patle/Project-I-NexusLogic-Technologies.git
+git clone https://github.com/Harshit-Patle/Project-I-NexusLogic-Technologies.git
 ```
 
 ### 3️⃣ Create a Feature Branch
